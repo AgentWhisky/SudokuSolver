@@ -1,0 +1,39 @@
+# Number Keys
+ONE_KEY = 49
+TWO_KEY = 50
+THREE_KEY = 51
+FOUR_KEY = 52
+FIVE_KEY = 53
+SIX_KEY = 54
+SEVEN_KEY = 55
+EIGHT_KEY = 56
+NINE_KEY = 57
+
+# Special Keys
+SPACE_KEY = 32
+DELETE_KEY = 127
+ENTER_KEY = 13
+BACKSPACE_KEY = 8
+TILDE_KEY = 96
+
+# Mouse Buttons
+LEFT_MOUSE = 1
+RIGHT_MOUSE = 3
+
+# Settings
+WINDOW_SIZE = (400, 480)
+BOX_SIZE = 40
+
+# Colors
+COLOR_BLACK = (0, 0, 0)
+COLOR_WHITE = (255, 255, 255)
+COLOR_RED = (255, 0, 0)
+COLOR_GREEN = (0, 255, 0)
+
+# Strings
+IMPOSSIBLE = "Impossible Puzzle"
+TIME_STR = "Solve Time: "
+
+
+
+
