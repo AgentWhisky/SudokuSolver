@@ -2,7 +2,7 @@
 
 ### Purpose
 * A simple tool that solves a given sudoku puzzle if possible
-* The underlying puzzle solving code is based on a guide that showed how to solve a sudoku puzzle with a simple backtracking algorithm
+* The underlying puzzle solving code is from a guide that showed how to solve a sudoku puzzle with a simple backtracking algorithm
   * Python Sudoku Solver Tutorial with Backtracking p.1 (Tech With Tim)
   * https://youtu.be/eqUwSA0xI-s
 
