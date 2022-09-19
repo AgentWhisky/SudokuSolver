@@ -2,7 +2,7 @@
 
 ### Purpose
 * A simple tool that solves a given sudoku puzzle if possible
-* Puzzle solving code is based on a guide that showed how to solve a sudoku puzzle with a simple backtracking algorithm
+* The underlying puzzle solving code is based on a guide that showed how to solve a sudoku puzzle with a simple backtracking algorithm
 
 ### Version #1
 * Simple program that solves the puzzle in the main() function and prints the result to console
