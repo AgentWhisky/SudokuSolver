@@ -30,3 +30,7 @@
   * Delete: Clears entire puzzle
   * Space: Solves the puzzle (if possible)
   * Tilde: Highlights values that were solved for
+  
+ ### Version #4
+ * See other Repo
+ * https://github.com/AgentWhisky/SudokuWebTool
